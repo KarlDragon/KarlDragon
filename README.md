@@ -5,7 +5,7 @@
 - 📫 How to reach me: giocodeproject@gmail.com
 - 😄 Pronouns: Optimism
 - ⚡ Fun fact: I very love cat!
-
+- My programing language: C/C++/C#, python, js
 <!---
 KarlDragon/KarlDragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
