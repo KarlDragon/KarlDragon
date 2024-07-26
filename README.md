@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @KarlDragon
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C#
-- 📫 How to reach me: giocodeproject@gmail.com
-- 😄 Pronouns: Optimism
-- ⚡ Fun fact: I very love cat!
+- 👋 Hi, I’m Phong
+- 👀 Contact me at: www.linkedin.com/in/dang-phong-aa3a0131b
 - My programing language: C/C++/C#, python, js
 <!---
 KarlDragon/KarlDragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
