@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phong
-- 👀 Contact me at: www.linkedin.com/in/dang-phong-aa3a0131b
+- 👀 Contact me at: [Linkedin](www.linkedin.com/in/karldragon)
 - My programing language: C/C++/C#, python, js
 <!---
 KarlDragon/KarlDragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
